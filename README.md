@@ -13,6 +13,7 @@ To propose a talk, create a github issue [here](https://github.com/pydatadelhi/t
     <br>
 * [Mukul Malik](https://github.com/mukulmalik18): **Introduction to Machine Learning** ([2016-11-06])
     * [Presentation](https://docs.google.com/presentation/d/1zbAjPKd-YYCbis_E8BsTLAXTrHbMPHJnP85w3kRiqLg/edit?usp=sharing)
+    * [Video](https://youtu.be/1p0hS43xI-M)
 
 * [Ayush](https://github.com/ayush1997): **Introduction to Pandas** ([2016-11-06])
     * [Presentation](http://slides.com/ayush1997/deck-1/)
