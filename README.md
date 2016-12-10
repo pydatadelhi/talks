@@ -24,5 +24,13 @@ To propose a talk, create a github issue [here](https://github.com/pydatadelhi/t
 * [Harshit Gupta](https://github.com/Harshitgupta15) and [Kajal Puri](https://github.com/kajalthecoder) : **Introduction to Recommender Systems** ([2016-11-06])
     * [Presentation](https://docs.google.com/presentation/d/1WRqPAKKZLuebFytXxQvYfWNzxQVNn6MhZGTavGIt9Yc/edit?usp=sharing)
 
-<br>
+   <br>
+* [Manas Ranjan Kar](https://github.com/manasRK): **Understanding NLIDB basics** ([2016-11-27])
+    * [Presentation](https://docs.google.com/presentation/d/1DZHKUthkjRAVEw6Z3UmwDGk4Qy_cup1b0MtEIwunbc8/edit)
+
+* [Anmol Sharma](https://github.com/Anmol-Sharma): **Getting to know Decision Trees, Random Forest and Gradient Boosted Methods** ([2016-11-27])
+    * [Presentation](https://docs.google.com/presentation/d/12j5KZv1QqkxviTd4TRQzIDTq75U6isq8TyFe5Hm2DWo/edit?usp=sharing)
+    
+   <br>
+   
 Inspired by [PyDelhi](https://github.com/pydelhi/talks).
