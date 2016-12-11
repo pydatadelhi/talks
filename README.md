@@ -17,9 +17,11 @@ To propose a talk, create a github issue [here](https://github.com/pydatadelhi/t
 
 * [Ayush](https://github.com/ayush1997): **Introduction to Pandas** ([2016-11-06])
     * [Presentation](http://slides.com/ayush1997/deck-1/)
+    * [Video](https://youtu.be/q2oKrnJst-A)
     
 * [Rahul Baboota](https://github.com/RahulBaboota): **Introduction To Feature Selection** ([2016-11-06])
     * [Presentation](http://slides.com/rahulbaboota/introfs)
+    * [Video](https://youtu.be/xSlYlBzwfQE)
     
 * [Harshit Gupta](https://github.com/Harshitgupta15) and [Kajal Puri](https://github.com/kajalthecoder) : **Introduction to Recommender Systems** ([2016-11-06])
     * [Presentation](https://docs.google.com/presentation/d/1WRqPAKKZLuebFytXxQvYfWNzxQVNn6MhZGTavGIt9Yc/edit?usp=sharing)
