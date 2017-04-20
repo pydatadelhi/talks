@@ -1,38 +1,19 @@
 # talks
-Talks at PyData Delhi Meetups
+PyData Delhi Meetup talks
 
-To propose a talk, create a github issue [here](https://github.com/pydatadelhi/talks/issues).
-## 2016
+> To propose a talk, create a github issue [here](https://github.com/pydatadelhi/talks/issues).
 
-* [Saurav Kaushik](https://github.com/sauravkaushik8): **Ensembler** ([2016-10-09])
-    * [Presentation](https://drive.google.com/file/d/0ByPBn4rtMQ5HT2toMXdXd1lyLWs/view)
+[This](https://www.youtube.com/channel/UCz_xSLNdtnkDsVTuYuLprMg/) is the link to our YouTube channel
 
-* [Manas Ranjan Kar](https://github.com/manasRK): **Introduction to NLP** ([2016-10-09])
-    * [Presentation](https://docs.google.com/presentation/d/11cqRZDD_jSrduiVI9-Z452JKuM6Q-_gw3xwIfMEnrXM/edit#slide=id.p)
-    
-    <br>
-* [Mukul Malik](https://github.com/mukulmalik18): **Introduction to Machine Learning** ([2016-11-06])
-    * [Presentation](https://docs.google.com/presentation/d/1zbAjPKd-YYCbis_E8BsTLAXTrHbMPHJnP85w3kRiqLg/edit?usp=sharing)
-    * [Video](https://youtu.be/1p0hS43xI-M)
+## List of talks at PyData Delhi (in reverse chronological order):
 
-* [Ayush](https://github.com/ayush1997): **Introduction to Pandas** ([2016-11-06])
-    * [Presentation](http://slides.com/ayush1997/deck-1/)
-    * [Video](https://youtu.be/q2oKrnJst-A)
-    
-* [Rahul Baboota](https://github.com/RahulBaboota): **Introduction To Feature Selection** ([2016-11-06])
-    * [Presentation](http://slides.com/rahulbaboota/introfs)
-    * [Video](https://youtu.be/xSlYlBzwfQE)
-    
-* [Harshit Gupta](https://github.com/Harshitgupta15) and [Kajal Puri](https://github.com/kajalthecoder) : **Introduction to Recommender Systems** ([2016-11-06])
-    * [Presentation](https://docs.google.com/presentation/d/1WRqPAKKZLuebFytXxQvYfWNzxQVNn6MhZGTavGIt9Yc/edit?usp=sharing)
-
-   <br>
-* [Manas Ranjan Kar](https://github.com/manasRK): **Understanding NLIDB basics** ([2016-11-27])
-    * [Presentation](https://docs.google.com/presentation/d/1DZHKUthkjRAVEw6Z3UmwDGk4Qy_cup1b0MtEIwunbc8/edit)
-
-* [Anmol Sharma](https://github.com/Anmol-Sharma): **Getting to know Decision Trees, Random Forest and Gradient Boosted Methods** ([2016-11-27])
-    * [Presentation](https://docs.google.com/presentation/d/12j5KZv1QqkxviTd4TRQzIDTq75U6isq8TyFe5Hm2DWo/edit?usp=sharing)
-    
-   <br>
-   
-Inspired by [PyDelhi](https://github.com/pydelhi/talks).
+|#| Date|Talk Title|Speaker Name|Link to Content|Twitter/Github handle|Youtube URL*|
+|---|---|---|---|---|---|---|
+|[**2**](https://www.meetup.com/PyDataDelhi/events/234746596/)|Nov 6, 2016| Introduction to **Recommender Systems**| Harshit Gupta & Kajal Puri|[Google Slides](https://docs.google.com/presentation/d/1WRqPAKKZLuebFytXxQvYfWNzxQVNn6MhZGTavGIt9Yc/edit?usp=sharing)|[Harshitgupta15](https://github.com/Harshitgupta15)|_in process_|
+|[**2**](https://www.meetup.com/PyDataDelhi/events/234746596/)|Nov 6, 2016| Introduction to **Feature Selection**|Rahul Baboota|?|?|?|
+|[**2**](https://www.meetup.com/PyDataDelhi/events/234746596/)|Nov 6, 2016|Introduction to **pandas**|Ayush Kumar Singh|?|?|?|
+|[**2**](https://www.meetup.com/PyDataDelhi/events/234746596/)|Nov 6, 2016| Introduction to **Machine Learning**| Mukul Malik|[Google Slides](https://docs.google.com/presentation/d/1zbAjPKd-YYCbis_E8BsTLAXTrHbMPHJnP85w3kRiqLg/edit?usp=sharing)|[mukulmalik18](https://github.com/mukulmalik18)|[Video](https://youtu.be/1p0hS43xI-M)|
+|[**1**](https://www.meetup.com/PyDataDelhi/events/234545906/)|Oct 9, 2016|**ensembleR**: Functions to use ensembles of several machine learning models|Saurav Kaushik|[Google Slides](https://drive.google.com/file/d/0ByPBn4rtMQ5HT2toMXdXd1lyLWs/view?usp=sharing)|?|?|
+|[**1**](https://www.meetup.com/PyDataDelhi/events/234545906/)|Oct 9, 2016|**Auto-Encoders**: unfolding manifolds and dimensionality reduction|Shubham Dokania|?|?|?|
+|[**1**](https://www.meetup.com/PyDataDelhi/events/234545906/)|Oct 9, 2016|Introduction to **Natural Language Processing**|Manas Ranjan Kar|[Google Slides](https://docs.google.com/presentation/d/1DZHKUthkjRAVEw6Z3UmwDGk4Qy_cup1b0MtEIwunbc8)|[manasRK](https://github.com/manasRK)|?|
+|[**1**](https://www.meetup.com/PyDataDelhi/events/234545906/)|Oct 9, 2016| Intro to **Data Science** and _PyData_ ⚡️|Manoj Pandey, Raj Rohit|[slides](http://slides.com/rajrohit/deck)|[@manojpandey96](https://twitter.com/manojpandey96), [@data__wizard](https://twitter.com/data__wizard), [manojpandey](https://github.com/manojpandey), [Dawny33](https://github.com/Dawny33)|[Welcome to PyData Delhi](https://www.youtube.com/watch?v=DG7armdXRPg)|
