@@ -30,7 +30,7 @@
 
 ## Sports: AlphaGo competes again with top chinese players
 
-## Releases: Spacy 1.5, Bokeh 0.12.5 released
+## Releases: Spacy 1.8, Bokeh 0.12.5 released
 
 
 ## Meetup #7 : 26/03/17
