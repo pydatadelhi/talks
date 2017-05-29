@@ -1,5 +1,38 @@
 # Newsbytes for PydataDelhi
 
+
+## Meetup #9 13/05/17
+
+## Research
+* End-to-end optimization of goal-driven and visually grounded dialogue systems
+https://arxiv.org/abs/1703.05423
+
+* Learning to Skim Text
+https://arxiv.org/abs/1704.06877
+
+## News
+* Google updates Maps with deep learning and open sources the code of the model
+https://github.com/tensorflow/models/tree/master/attention_ocr
+https://research.googleblog.com/2017/05/updating-google-maps-with-deep-learning.html
+
+* AI is being used by GE to optimize windfarms in Japan 
+http://asia.nikkei.com/Business/Companies/AI-to-propel-wind-farm-efficiency-in-Japan
+
+
+## Events
+* ICLR happened!!! and videos are available at https://www.facebook.com/pg/iclr.cc/videos/
+
+## Tools and Libraries
+* FAIR released ParlAI( https://parl.ai) 
+* TensorFlow v1.1.0 released
+* FAIR fasttext library now available on smaller devices
+https://code.facebook.com/posts/162370720961195/
+* IPython 6.0 is out- without python 2 support!
+* Jupyter 5.0 released
+* ipyvolume 0.3 released
+
+
+
 ## Meetup #8 23/04/17
 
 ## Neuralink Launch
