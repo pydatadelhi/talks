@@ -1,5 +1,27 @@
 # Newsbytes for PydataDelhi
 
+## Meetup #11 25/06/17
+
+## Research
+* MultiModel: Multi-Task Machine Learning Across Domains
+https://research.googleblog.com/2017/06/multimodel-multi-task-machine-learning.html
+* Deep reinforcement learning from human preferences
+https://arxiv.org/abs/1706.03741
+* Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour : 
+Caffe2-based system trains ResNet-50 with a minibatch size of 8192 on 256 GPUs in one hour,
+
+## News
+* Karpathy joins Tesla
+* Andrew NG Launches deeplearning.ai
+* Apple is working on software for self-driving cars 
+
+## Tools and libraries
+* Apple releases CoreML
+* TensorFlow object detection API
+https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html
+* T2T: Tensor2Tensor Transformers
+
+
 
 ## Meetup #9 13/05/17
 
