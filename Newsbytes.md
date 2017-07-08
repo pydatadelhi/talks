@@ -1,5 +1,22 @@
 # Newsbytes for PydataDelhi
 
+## Meetup #13 09/07/17
+
+## Research 
+* PixelGAN autoencoder: https://arxiv.org/abs/1706.00531
+
+## News
+* Drive.ai raises 50M$ and adds Andrew Ng
+* Fake AV Generation with GANs: https://www.economist.com/news/science-and-technology/21724370-generating-convincing-audio-and-video-fake-events-fake-news-you-aint-seen
+* Nvidia partners with volvo to develop self driving cars by 2021
+
+## Tools and libraries
+* Sony opensources Nnabla: Neural network libraries
+* Open AI open sources robotic simulation library based on MoJuCo engine : https://blog.openai.com/faster-robot-simulation-in-python
+* Performance RNN by Magenta: LSTM-based recurrent neural network designed to model polyphonic music with expressive timing and dynamics
+* New BAIR Post on neural module networks(NMNs).
+
+
 ## Meetup #11 25/06/17
 
 ## Research
