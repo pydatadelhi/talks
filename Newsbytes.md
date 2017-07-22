@@ -1,5 +1,28 @@
 # Newsbytes for PydataDelhi
 
+## Meetup #14 23/07/17
+
+## Research
+* Deepmind: Producing flexible behaviours in simulated environments
+https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/
+* Deepmind: Distral: Robust Multitask Reinforcement Learning
+https://arxiv.org/pdf/1707.04175.pdf
+* OpenAI: New class of reinforcement learning algorithms, Proximal Policy Optimization (PPO) 
+https://blog.openai.com/openai-baselines-ppo/
+* OpenAI: Creating Robust adverrsarial examples
+https://blog.openai.com/robust-adversarial-inputs/
+ 
+## Tools and Libraries
+* OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+* Exploring large datasets with PAIR
+* CVPR kickedoff at HonoLulu
+
+## News
+* Click Professional photos with ML
+https://google.github.io/creatism/
+* Gradient Ventures by Google
+
+
 ## Meetup #13 09/07/17
 
 ## Research 
