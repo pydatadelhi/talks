@@ -1,5 +1,17 @@
 # Newsbytes for PydataDelhi
 
+## Meetup #15 06/08/17
+
+## Research
+* Deepmind: Agents that imagine a plan https://deepmind.com/blog/agents-imagine-and-plan/
+* Densely connected CNNs : https://arxiv.org/pdf/1608.06993.pdf
+
+## Tools and libraries
+* Qualcomm releases its Neural Processing Engine SDK to developers via their developer network
+* Caffe2 adds RNN support
+* Tenssorfire by webGL: https://tenso.rs/demos/fast-neural-style
+
+
 ## Meetup #14 23/07/17
 
 ## Research
